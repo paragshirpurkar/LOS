@@ -1,2 +1,2 @@
 # LOS
-Lofan Origination system
+Loan Origination system
